@@ -1,0 +1,39 @@
+/* 
+Paleta de cores
+#167E59 - cor do logo
+#027373 - verde escuro
+#038C7F - verde médio
+#A9D9D0 - verde claro
+#F2E7DC - cinza claro
+#0D0D0D - preto
+*/
+
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#logo{
+    background-color: #167E59;
+    text-align: center;
+    margin: auto;
+    padding: 30px 0px;
+}
+
+nav,a {
+    background-color: #0c5239;  
+    padding: 10px 0px; 
+}
+nav > a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 10px;
+    
+}
+
+
+
